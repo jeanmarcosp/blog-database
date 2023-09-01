@@ -1,0 +1,16 @@
+post blog1 xenDC "a new blog for CS61" "post body" "" 2022-11-13T08:47:11.912Z
+post blog1 jeanMP "database systems: topics include relational databases" "post body" "sql, databases" 2022-11-13T09:40:01.912Z
+post blog2 xenDC "blog tester 2" "post body" "" 2022-11-14T08:47:11.912Z
+post blog2 jeanMP "history of databases" "post body" "mongo, databases, db" 2022-11-14T09:40:01.912Z
+show blog1
+show blog2
+comment blog2 blog2.blog_tester_2 pkm123 "excited for this class!" 2022-11-14T13:25:01.132Z
+comment blog2 blog2.blog_tester_2 pkm127 "did we have assignments due today?" 2022-11-14T14:45:20.791Z
+comment blog2 2022-11-14T14:45:20.791Z chrisPratt "but when would we work with Mongo??" 2022-11-13T20:12:34.381Z
+comment blog2 blog61.2022-11-13T09:40:01.912Z chrisPratt "random comment??" 2022-11-13T20:12:34.381Z
+show blog1
+show blog2
+delete blog1 blog1.a_new_blog_for_CS61 pkm123 2022-11-14T14:55:20.541Z #deleting post
+delete blog2 2022-11-13T20:12:34.381Z jeanMP 2022-11-15T02:31:11.072Z #deleting comment
+show blog1
+show blog2

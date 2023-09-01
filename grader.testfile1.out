@@ -1,0 +1,283 @@
+please enter a command or press "q" to quit
+please enter another command or press "q" to quit
+please enter another command or press "q" to quit
+please enter another command or press "q" to quit
+please enter another command or press "q" to quit
+'- - - -'
+{'_id': ObjectId('6372abc2c6e96e22f64d23b9'),
+ 'comments': [],
+ 'permalink': 'blog1.a_new_blog_for_CS61',
+ 'postBody': 'deleted by pkm123',
+ 'tags': [''],
+ 'timestamp': '2022-11-14T14:55:20.541Z',
+ 'title': 'a new blog for CS61',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372abcec6e96e22f64d23ba'),
+ 'comments': [],
+ 'permalink': 'blog1.database_systems_topics_include_relational_databases',
+ 'postBody': 'post body',
+ 'tags': ['sql', ' databases'],
+ 'timestamp': '2022-11-13T09:40:01.912Z',
+ 'title': 'database systems: topics include relational databases',
+ 'userName': 'jeanMP'}
+'- - - -'
+{'_id': ObjectId('6372f4fea4d92e01261cc5a9'),
+ 'comments': [],
+ 'permalink': 'blog1.a_new_blog_for_CS61',
+ 'postBody': 'post body',
+ 'tags': [''],
+ 'timestamp': '2022-11-13T08:47:11.912Z',
+ 'title': 'a new blog for CS61',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372f500a4d92e01261cc5aa'),
+ 'comments': [],
+ 'permalink': 'blog1.database_systems_topics_include_relational_databases',
+ 'postBody': 'post body',
+ 'tags': ['sql', ' databases'],
+ 'timestamp': '2022-11-13T09:40:01.912Z',
+ 'title': 'database systems: topics include relational databases',
+ 'userName': 'jeanMP'}
+please enter another command or press "q" to quit
+'- - - -'
+{'_id': ObjectId('6372abf429749317084d892f'),
+ 'comments': [],
+ 'permalink': 'blog2.history_of_databases',
+ 'postBody': 'post body',
+ 'tags': ['mongo', ' databases', ' db'],
+ 'timestamp': '2022-11-14T09:40:01.912Z',
+ 'title': 'history of databases',
+ 'userName': 'jeanMP'}
+'- - - -'
+{'_id': ObjectId('6372b7a5168f66167d9e2816'),
+ 'comment': 'deleted by jeanMP',
+ 'comments': [{'comment': 'excited for this class!',
+               'permalink': '2022-11-14T13:25:01.132Z',
+               'userName': 'pkm123'},
+              {'comment': 'did we have assignments due today?',
+               'permalink': '2022-11-14T14:45:20.791Z',
+               'userName': 'pkm127'},
+              {'comment': 'deleted by jeanMP',
+               'permalink': '2022-11-13T20:12:34.381Z',
+               'userName': 'chrisPratt'}],
+ 'permalink': 'blog2.blog_tester_2',
+ 'postBody': 'post body',
+ 'tags': [''],
+ 'timestamp': '2022-11-14T08:47:11.912Z',
+ 'title': 'blog tester 2',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372f500a4d92e01261cc5ab'),
+ 'comments': [],
+ 'permalink': 'blog2.blog_tester_2',
+ 'postBody': 'post body',
+ 'tags': [''],
+ 'timestamp': '2022-11-14T08:47:11.912Z',
+ 'title': 'blog tester 2',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372f500a4d92e01261cc5ac'),
+ 'comments': [],
+ 'permalink': 'blog2.history_of_databases',
+ 'postBody': 'post body',
+ 'tags': ['mongo', ' databases', ' db'],
+ 'timestamp': '2022-11-14T09:40:01.912Z',
+ 'title': 'history of databases',
+ 'userName': 'jeanMP'}
+please enter another command or press "q" to quit
+please enter another command or press "q" to quit
+please enter another command or press "q" to quit
+please enter another command or press "q" to quit
+unable to upload comment: post/comment does not exist
+please enter another command or press "q" to quit
+'- - - -'
+{'_id': ObjectId('6372abc2c6e96e22f64d23b9'),
+ 'comments': [],
+ 'permalink': 'blog1.a_new_blog_for_CS61',
+ 'postBody': 'deleted by pkm123',
+ 'tags': [''],
+ 'timestamp': '2022-11-14T14:55:20.541Z',
+ 'title': 'a new blog for CS61',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372abcec6e96e22f64d23ba'),
+ 'comments': [],
+ 'permalink': 'blog1.database_systems_topics_include_relational_databases',
+ 'postBody': 'post body',
+ 'tags': ['sql', ' databases'],
+ 'timestamp': '2022-11-13T09:40:01.912Z',
+ 'title': 'database systems: topics include relational databases',
+ 'userName': 'jeanMP'}
+'- - - -'
+{'_id': ObjectId('6372f4fea4d92e01261cc5a9'),
+ 'comments': [],
+ 'permalink': 'blog1.a_new_blog_for_CS61',
+ 'postBody': 'post body',
+ 'tags': [''],
+ 'timestamp': '2022-11-13T08:47:11.912Z',
+ 'title': 'a new blog for CS61',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372f500a4d92e01261cc5aa'),
+ 'comments': [],
+ 'permalink': 'blog1.database_systems_topics_include_relational_databases',
+ 'postBody': 'post body',
+ 'tags': ['sql', ' databases'],
+ 'timestamp': '2022-11-13T09:40:01.912Z',
+ 'title': 'database systems: topics include relational databases',
+ 'userName': 'jeanMP'}
+please enter another command or press "q" to quit
+'- - - -'
+{'_id': ObjectId('6372abf429749317084d892f'),
+ 'comments': [],
+ 'permalink': 'blog2.history_of_databases',
+ 'postBody': 'post body',
+ 'tags': ['mongo', ' databases', ' db'],
+ 'timestamp': '2022-11-14T09:40:01.912Z',
+ 'title': 'history of databases',
+ 'userName': 'jeanMP'}
+'- - - -'
+{'_id': ObjectId('6372b7a5168f66167d9e2816'),
+ 'comment': 'deleted by jeanMP',
+ 'comments': [{'comment': 'excited for this class!',
+               'permalink': '2022-11-14T13:25:01.132Z',
+               'userName': 'pkm123'},
+              {'comment': 'did we have assignments due today?',
+               'permalink': '2022-11-14T14:45:20.791Z',
+               'userName': 'pkm127'},
+              {'comment': 'deleted by jeanMP',
+               'permalink': '2022-11-13T20:12:34.381Z',
+               'userName': 'chrisPratt'},
+              {'comment': 'excited for this class!',
+               'permalink': '2022-11-14T13:25:01.132Z',
+               'userName': 'pkm123'},
+              {'comment': 'did we have assignments due today?',
+               'permalink': '2022-11-14T14:45:20.791Z',
+               'userName': 'pkm127'},
+              {'comment': 'but when would we work with Mongo??',
+               'permalink': '2022-11-13T20:12:34.381Z',
+               'userName': 'chrisPratt'}],
+ 'permalink': 'blog2.blog_tester_2',
+ 'postBody': 'post body',
+ 'tags': [''],
+ 'timestamp': '2022-11-14T08:47:11.912Z',
+ 'title': 'blog tester 2',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372f500a4d92e01261cc5ab'),
+ 'comments': [],
+ 'permalink': 'blog2.blog_tester_2',
+ 'postBody': 'post body',
+ 'tags': [''],
+ 'timestamp': '2022-11-14T08:47:11.912Z',
+ 'title': 'blog tester 2',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372f500a4d92e01261cc5ac'),
+ 'comments': [],
+ 'permalink': 'blog2.history_of_databases',
+ 'postBody': 'post body',
+ 'tags': ['mongo', ' databases', ' db'],
+ 'timestamp': '2022-11-14T09:40:01.912Z',
+ 'title': 'history of databases',
+ 'userName': 'jeanMP'}
+please enter another command or press "q" to quit
+please enter another command or press "q" to quit
+please enter another command or press "q" to quit
+'- - - -'
+{'_id': ObjectId('6372abc2c6e96e22f64d23b9'),
+ 'comments': [],
+ 'permalink': 'blog1.a_new_blog_for_CS61',
+ 'postBody': 'deleted by pkm123',
+ 'tags': [''],
+ 'timestamp': '2022-11-14T14:55:20.541Z',
+ 'title': 'a new blog for CS61',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372abcec6e96e22f64d23ba'),
+ 'comments': [],
+ 'permalink': 'blog1.database_systems_topics_include_relational_databases',
+ 'postBody': 'post body',
+ 'tags': ['sql', ' databases'],
+ 'timestamp': '2022-11-13T09:40:01.912Z',
+ 'title': 'database systems: topics include relational databases',
+ 'userName': 'jeanMP'}
+'- - - -'
+{'_id': ObjectId('6372f4fea4d92e01261cc5a9'),
+ 'comments': [],
+ 'permalink': 'blog1.a_new_blog_for_CS61',
+ 'postBody': 'post body',
+ 'tags': [''],
+ 'timestamp': '2022-11-13T08:47:11.912Z',
+ 'title': 'a new blog for CS61',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372f500a4d92e01261cc5aa'),
+ 'comments': [],
+ 'permalink': 'blog1.database_systems_topics_include_relational_databases',
+ 'postBody': 'post body',
+ 'tags': ['sql', ' databases'],
+ 'timestamp': '2022-11-13T09:40:01.912Z',
+ 'title': 'database systems: topics include relational databases',
+ 'userName': 'jeanMP'}
+please enter another command or press "q" to quit
+'- - - -'
+{'_id': ObjectId('6372abf429749317084d892f'),
+ 'comments': [],
+ 'permalink': 'blog2.history_of_databases',
+ 'postBody': 'post body',
+ 'tags': ['mongo', ' databases', ' db'],
+ 'timestamp': '2022-11-14T09:40:01.912Z',
+ 'title': 'history of databases',
+ 'userName': 'jeanMP'}
+'- - - -'
+{'_id': ObjectId('6372b7a5168f66167d9e2816'),
+ 'comment': 'deleted by jeanMP',
+ 'comments': [{'comment': 'excited for this class!',
+               'permalink': '2022-11-14T13:25:01.132Z',
+               'userName': 'pkm123'},
+              {'comment': 'did we have assignments due today?',
+               'permalink': '2022-11-14T14:45:20.791Z',
+               'userName': 'pkm127'},
+              {'comment': 'deleted by jeanMP',
+               'permalink': '2022-11-13T20:12:34.381Z',
+               'userName': 'chrisPratt'},
+              {'comment': 'excited for this class!',
+               'permalink': '2022-11-14T13:25:01.132Z',
+               'userName': 'pkm123'},
+              {'comment': 'did we have assignments due today?',
+               'permalink': '2022-11-14T14:45:20.791Z',
+               'userName': 'pkm127'},
+              {'comment': 'but when would we work with Mongo??',
+               'permalink': '2022-11-13T20:12:34.381Z',
+               'userName': 'chrisPratt'}],
+ 'permalink': 'blog2.blog_tester_2',
+ 'postBody': 'post body',
+ 'tags': [''],
+ 'timestamp': '2022-11-14T08:47:11.912Z',
+ 'title': 'blog tester 2',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372f500a4d92e01261cc5ab'),
+ 'comments': [],
+ 'permalink': 'blog2.blog_tester_2',
+ 'postBody': 'post body',
+ 'tags': [''],
+ 'timestamp': '2022-11-14T08:47:11.912Z',
+ 'title': 'blog tester 2',
+ 'userName': 'xenDC'}
+'- - - -'
+{'_id': ObjectId('6372f500a4d92e01261cc5ac'),
+ 'comments': [],
+ 'permalink': 'blog2.history_of_databases',
+ 'postBody': 'post body',
+ 'tags': ['mongo', ' databases', ' db'],
+ 'timestamp': '2022-11-14T09:40:01.912Z',
+ 'title': 'history of databases',
+ 'userName': 'jeanMP'}
+please enter another command or press "q" to quit
+Traceback (most recent call last):
+  File "/Users/jeanmarcos/Desktop/lab4_perez_delacueva/lab4.py", line 166, in <module>
+    inp = input("please enter another command or press \"q\" to quit\n")
+EOFError: EOF when reading a line
