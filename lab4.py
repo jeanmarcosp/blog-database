@@ -1,4 +1,4 @@
-import pymongo                               #mongodb connector
+import pymongo  #mongodb connector
 from pprint import pprint
 import datetime
 from datetime import date
@@ -8,7 +8,8 @@ from db_functions import *
 
 server = create_mongo_server()
 
-try:    #initialize server connection
+#initialize server connection
+try:    
     connection = pymongo.MongoClient(server)
 
 except pymongo.errors.ServerSelectionTimeoutError as err:
@@ -145,5 +146,8 @@ while inp[0].lower() != 'q':
 
     inp = input("please enter another command or press \"q\" to quit\n")
     inp = shlex.split(inp)
+
+    if inp[0] == "q":
+        break
 
 print("Goodbye!")
